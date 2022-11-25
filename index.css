@@ -35,3 +35,8 @@
     align-items: center;
     font-size: x-large;
 }
+h1 {
+    display: flex;
+    justify-content: center;
+    color: red;
+}
