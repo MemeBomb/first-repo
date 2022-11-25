@@ -1,0 +1,37 @@
+.heading { 
+    height: 100px;
+    width: 100%;
+    color: white;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+
+}
+
+.signs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.u { 
+    width: 30%;
+    height: 50px;
+    border: 2px solid blue;
+    margin: 5px;
+    font-size: x-large;
+}
+
+.button {
+    width: 20%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    margin: 8px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
